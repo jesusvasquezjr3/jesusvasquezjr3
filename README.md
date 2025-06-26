@@ -28,8 +28,8 @@ Soy estudiante de **Ingeniería Biomédica** en el **Tecnológico de Monterrey**
 ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-00A4E4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNDAgMjQwIj48cmVjdCB3aWR0aD0iMjQwIiBoZWlnaHQ9IjI0MCIgZmlsbD0iIzAwQTlFMyIvPjwvc3ZnPg==&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-292929?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNDAgMjQwIj48cmVjdCB3aWR0aD0iMjQwIiBoZWlnaHQ9IjI0MCIgZmlsbD0iIzAwQTVFOSIvPjwvc3ZnPg==&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-00A4E4?style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-292929?style=for-the-badge&logo=https://cdn.worldvectorlogo.com/logos/solidworks-logo-1.svg&logoColor=white)
 ![Fusion360](https://img.shields.io/badge/Fusion%20360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
