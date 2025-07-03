@@ -37,12 +37,12 @@ Soy estudiante de **Ingeniería Biomédica** en el **Tecnológico de Monterrey**
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## 📊 GitHub Stats:
+## 📊 Estadísticas de GitHub
 
-| ![Estadísticas Generales](https://github-readme-stats.vercel.app/api?username=jesusvasquezjr3&show_icons=true&theme=nightowl&border_color=1DA1F2&text_color=58A6FF&title_color=1DA1F2&bg_color=0D1117&hide_border=false&include_all_commits=true) | ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusvasquezjr3&layout=compact&theme=nightowl&border_color=1DA1F2&text_color=58A6FF&title_color=1DA1F2&bg_color=0D1117&hide_border=false&langs_count=6) |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Lenguajes más usados | Actividad de Commits |
+|----------------------|----------------------|
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusvasquezjr3&layout=compact&theme=nightowl&border_color=1DA1F2&text_color=58A6FF&title_color=1DA1F2&bg_color=0D1117&hide_border=false)](https://github.com/anuraghazra/github-readme-stats) | [![Actividad de Commits](https://activity-graph.herokuapp.com/graph?username=jesusvasquezjr3&theme=react-dark&bg_color=0D1117&color=58A6FF&line=1DA1F2&point=1DA1F2&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |
 
-| ![Repositorio 1](https://github-readme-stats.vercel.app/api/pin/?username=jesusvasquezjr3&repo=REPO_1&theme=nightowl&border_color=1DA1F2&text_color=58A6FF&title_color=1DA1F2&bg_color=0D1117) | ![Repositorio 2](https://github-readme-stats.vercel.app/api/pin/?username=jesusvasquezjr3&repo=REPO_2&theme=nightowl&border_color=1DA1F2&text_color=58A6FF&title_color=1DA1F2&bg_color=0D1117) |
-
-| ![Trophies](https://github-profile-trophy.vercel.app/?username=jesusvasquezjr3&theme=onedark&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true&title=Stars,Commit,Repositories,PullRequest,Issues,Followers) |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Gráfico de Contribuciones |
+|---------------------------|
+| ![Contribuciones](https://github-readme-activity-graph.vercel.app/graph?username=jesusvasquezjr3&theme=react-dark&bg_color=0D1117&hide_border=true&color=58A6FF&line=1DA1F2&point=1DA1F2&area=true&area_color=1DA1F2) |
