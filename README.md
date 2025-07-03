@@ -39,10 +39,6 @@ Soy estudiante de **Ingeniería Biomédica** en el **Tecnológico de Monterrey**
 
 ## 📊 Estadísticas de GitHub
 
-| Lenguajes más usados | Actividad de Commits |
-|----------------------|----------------------|
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusvasquezjr3&layout=compact&theme=nightowl&border_color=1DA1F2&text_color=58A6FF&title_color=1DA1F2&bg_color=0D1117&hide_border=false)](https://github.com/anuraghazra/github-readme-stats) | [![Actividad de Commits](https://activity-graph.herokuapp.com/graph?username=jesusvasquezjr3&theme=react-dark&bg_color=0D1117&color=58A6FF&line=1DA1F2&point=1DA1F2&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |
-
-| Gráfico de Contribuciones |
-|---------------------------|
-| ![Contribuciones](https://github-readme-activity-graph.vercel.app/graph?username=jesusvasquezjr3&theme=react-dark&bg_color=0D1117&hide_border=true&color=58A6FF&line=1DA1F2&point=1DA1F2&area=true&area_color=1DA1F2) |
+| 📌 Lenguajes más usados | 📈 Actividad de contribuciones |
+|------------------------|-------------------------------|
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusvasquezjr3&layout=compact&theme=nightowl&border_color=1DA1F2&text_color=58A6FF&title_color=1DA1F2&bg_color=0D1117&hide_border=false)](https://github.com/anuraghazra/github-readme-stats) | [![Actividad](https://github-readme-activity-graph.vercel.app/graph?username=jesusvasquezjr3&theme=react-dark&bg_color=0D1117&color=58A6FF&line=1DA1F2&point=1DA1F2&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |
