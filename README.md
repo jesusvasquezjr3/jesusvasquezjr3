@@ -36,3 +36,7 @@ Soy estudiante de **Ingeniería Biomédica** en el **Tecnológico de Monterrey**
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+## 📊 GitHub Stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusvasquezjr3&layout=compact&theme=nightowl&border_color=1DA1F2&text_color=58A6FF&title_color=1DA1F2&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
