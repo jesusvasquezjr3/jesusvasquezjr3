@@ -39,4 +39,10 @@ Soy estudiante de **Ingeniería Biomédica** en el **Tecnológico de Monterrey**
 
 ## 📊 GitHub Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusvasquezjr3&layout=compact&theme=nightowl&border_color=1DA1F2&text_color=58A6FF&title_color=1DA1F2&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+| ![Estadísticas Generales](https://github-readme-stats.vercel.app/api?username=jesusvasquezjr3&show_icons=true&theme=nightowl&border_color=1DA1F2&text_color=58A6FF&title_color=1DA1F2&bg_color=0D1117&hide_border=false&include_all_commits=true) | ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusvasquezjr3&layout=compact&theme=nightowl&border_color=1DA1F2&text_color=58A6FF&title_color=1DA1F2&bg_color=0D1117&hide_border=false&langs_count=6) |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+| ![Repositorio 1](https://github-readme-stats.vercel.app/api/pin/?username=jesusvasquezjr3&repo=REPO_1&theme=nightowl&border_color=1DA1F2&text_color=58A6FF&title_color=1DA1F2&bg_color=0D1117) | ![Repositorio 2](https://github-readme-stats.vercel.app/api/pin/?username=jesusvasquezjr3&repo=REPO_2&theme=nightowl&border_color=1DA1F2&text_color=58A6FF&title_color=1DA1F2&bg_color=0D1117) |
+
+| ![Trophies](https://github-profile-trophy.vercel.app/?username=jesusvasquezjr3&theme=onedark&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true&title=Stars,Commit,Repositories,PullRequest,Issues,Followers) |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
