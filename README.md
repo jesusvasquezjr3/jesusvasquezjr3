@@ -6,7 +6,7 @@
 
 ---
 
-## 🎓 Sobre mí
+## 🎓 Sobre mí 
 
 Soy estudiante de **Ingeniería Biomédica** en el **Tecnológico de Monterrey** y también de **Ingeniería en Inteligencia Artificial** en **Hybridge Education**.  
 
