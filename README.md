@@ -10,8 +10,8 @@
 
 Soy estudiante de **Ingeniería Biomédica** en el **Tecnológico de Monterrey** y también de **Ingeniería en Inteligencia Artificial** en **Hybridge Education**.  
 
-- 💬 Me interesan las aplicaciones de tecnologías como la inteligencia artificial en el ámbito médico y clínico.
-- ⚡ Estoy empezando un emprendimiento en el área de Tecnología Biomédica.
+- 💬 Me interesan las aplicaciones de tecnologías como la inteligencia artificial en diversos ambitos
+- ⚡ Estoy empezando un emprendimiento.
 
 ## 💻 Tech Stack:
 
