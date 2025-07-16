@@ -2,7 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/jesusvasquezjr3/)  
 
-![Tec de Monterrey](https://img.shields.io/badge/Tec%20de%20Monterrey-0066B3?style=flat-square&logoColor=white)](https://tec.mx/)[![Hybridge Education](https://img.shields.io/badge/Hybridge-Education-lightgrey)](https://www.hybridge.education)
+![Tec de Monterrey](https://img.shields.io/badge/Tec%20de%20Monterrey-0066B3?style=flat-square&logoColor=white)]( https://tec.mx/ )
+[![Hybridge Education](https://img.shields.io/badge/Hybridge-Education-lightgrey )](https://www.hybridge.education )
 
 ---
 
