@@ -9,23 +9,21 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    # ¡IMPORTANTE! Añade esta sección de permisos
     permissions:
-      contents: write # Permiso para que la acción pueda hacer commit al repositorio
+      contents: write
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '18' # Fija una versión de Node.js para mayor compatibilidad
-
       - name: Generate GitHub City
-        run: |
-          npx github-city-generator --username jesusvasquezjr3 --token ${{ secrets.GH_TOKEN }} --output city.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        uses: 9sako6/github-city-action@v1
+        with:
+          # Usamos una variable de GitHub para obtener tu nombre de usuario automáticamente
+          username: ${{ github.repository_owner }}
+          # El token que creaste y guardaste como un secreto
+          token: ${{ secrets.GH_TOKEN }}
+          # Nombre del archivo de salida
+          output: city.svg
 
       - name: Commit and Push new city
         run: |
