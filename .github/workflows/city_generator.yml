@@ -15,14 +15,29 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # Usamos la nueva acción, que sí existe y está mantenida
-      - name: Generate GitHub City
-        uses: IchaDev/jscity-action@v1
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
         with:
-          # El token que creaste
-          token: ${{ secrets.GH_TOKEN }}
-          # La ruta donde se guardará el archivo SVG
-          output_path: city.svg
+          node-version: '18' # Usamos una versión estable de Node.js
+
+      - name: Generate GitHub City from source
+        run: |
+          echo "Clonando el repositorio de la herramienta GitHub-City..."
+          git clone https://github.com/honzaap/GitHub-City.git
+
+          echo "Navegando al directorio de la herramienta..."
+          cd GitHub-City
+
+          echo "Instalando las dependencias de la herramienta..."
+          npm install
+
+          echo "Ejecutando el script para generar la ciudad..."
+          # Usamos el script original con tu usuario y token
+          node city.js -u ${{ github.repository_owner }} -t ${{ secrets.GH_TOKEN }} -o city.svg
+
+          echo "Moviendo el archivo generado al directorio principal..."
+          # Movemos la imagen generada para que el siguiente paso la encuentre
+          mv city.svg ../city.svg
 
       - name: Commit and Push new city
         run: |
