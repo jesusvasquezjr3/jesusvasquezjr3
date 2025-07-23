@@ -27,7 +27,7 @@ jobs:
           echo "Clonando el repositorio CORRECTO de la herramienta (GitHub-City)..."
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/honzaap/GitHubCity.git
           echo "Navegando al directorio de la herramienta..."
-          cd GitHub-City
+          cd GitHubCity
 
           echo "Instalando las dependencias de la herramienta..."
           npm install
