@@ -26,7 +26,7 @@ I am a student of **Biomedical Engineering** at **Tecnológico de Monterrey**, a
 
 | 📌 Most Used Languages | 📈 Contribution Activity |
 |------------------------|--------------------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusvasquezjr3&layout=donut-vertical&theme=nightowl&langs_count=6) | ![GitHub City](https://jonathongin52.github.io/github-cities/jesusvasquezjr3.svg) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusvasquezjr3&layout=donut-vertical&theme=nightowl&langs_count=6) | ![GitHub City](https://github-skylines.vercel.app/api/users/jesusvasquezjr3?theme=dark) [Ver ciudad interactiva](https://github-skylines.vercel.app/user/jesusvasquezjr3) |
 
 
 | ![GitHub Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg) |
