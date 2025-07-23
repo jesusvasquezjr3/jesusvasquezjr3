@@ -21,20 +21,20 @@ jobs:
           node-version: '18'
 
       - name: Generate GitHub City from source
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           echo "Clonando el repositorio CORRECTO de la herramienta (GitHub-City)..."
-          # 1. Usamos la URL correcta con el guion "-"
-          git clone https://github.com/honzaap/GitHub-City.git
+          # Usamos el token para autenticar el clone y la URL correcta sin la "/" al final
+          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/honzaap/GitHub-City.git
 
           echo "Navegando al directorio de la herramienta..."
-          # 2. El nombre del directorio ahora también tiene el guion "-"
           cd GitHub-City
 
           echo "Instalando las dependencias de la herramienta..."
           npm install
 
           echo "Ejecutando el script para generar la ciudad..."
-          # 3. El archivo a ejecutar en ESTE repositorio sí es "city.js"
           node city.js -u ${{ github.repository_owner }} -t ${{ secrets.GH_TOKEN }} -o city.svg
 
           echo "Moviendo el archivo generado al directorio principal..."
