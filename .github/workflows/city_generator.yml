@@ -1,0 +1,27 @@
+name: Generate GitHub City
+
+on:
+  schedule:
+    # Se ejecuta cada 24 horas
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Permite ejecutarlo manualmente desde la pestaña Actions
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate city
+        run: |
+          npm i -g github-city-generator
+          github-city-generator --username jesusvasquezjr3 --token ${{ secrets.GH_TOKEN }} --output city.svg
+
+      - name: Commit and push
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add city.svg
+          git commit -m "Automated: Updated GitHub City" || exit 0
+          git push
