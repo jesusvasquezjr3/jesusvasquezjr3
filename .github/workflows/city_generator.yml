@@ -2,6 +2,7 @@ name: Generate GitHub City
 
 on:
   schedule:
+    # Se ejecuta cada 24 horas a la medianoche UTC
     - cron: '0 0 * * *'
   workflow_dispatch:
 
@@ -20,12 +21,12 @@ jobs:
           node-version: '18'
 
       - name: Generate GitHub City from source
-        # Se ha añadido GITHUB_TOKEN a la variable de entorno de este paso
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           echo "Clonando el repositorio de la herramienta GitHub-City..."
-          # Se ha modificado esta línea para incluir las credenciales en la URL
+          # --- LA CORRECCIÓN ESTÁ AQUÍ ---
+          # Se eliminó la barra diagonal ("/") al final de la URL
           git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/honzaap/GitHub-City.git
 
           echo "Navegando al directorio de la herramienta..."
