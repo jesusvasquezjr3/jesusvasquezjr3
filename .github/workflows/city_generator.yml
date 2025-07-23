@@ -2,6 +2,7 @@ name: Generate GitHub City
 
 on:
   schedule:
+    # Se ejecuta cada 24 horas a la medianoche UTC
     - cron: '0 0 * * *'
   workflow_dispatch:
 
@@ -21,23 +22,20 @@ jobs:
 
       - name: Generate GitHub City from source
         run: |
-          echo "Clonando el repositorio PÚBLICO de la herramienta (sin token)..."
-          git clone https://github.com/honzaap/GithubCity.git
+          echo "Clonando el repositorio CORRECTO de la herramienta (GitHub-City)..."
+          # 1. Usamos la URL correcta con el guion "-"
+          git clone https://github.com/honzaap/GitHub-City.git
 
           echo "Navegando al directorio de la herramienta..."
-          cd GithubCity
+          # 2. El nombre del directorio ahora también tiene el guion "-"
+          cd GitHub-City
 
           echo "Instalando las dependencias de la herramienta..."
           npm install
 
-          # --- PASO DE DEPURACIÓN ---
-          # Mostraremos una lista de todos los archivos para ver qué hay adentro
-          echo "--- INICIO DE LA LISTA DE ARCHIVOS (DEBUG) ---"
-          ls -R
-          echo "--- FIN DE LA LISTA DE ARCHIVOS (DEBUG) ---"
-
           echo "Ejecutando el script para generar la ciudad..."
-          node src/index.js -u ${{ github.repository_owner }} -t ${{ secrets.GH_TOKEN }} -o city.svg
+          # 3. El archivo a ejecutar en ESTE repositorio sí es "city.js"
+          node city.js -u ${{ github.repository_owner }} -t ${{ secrets.GH_TOKEN }} -o city.svg
 
           echo "Moviendo el archivo generado al directorio principal..."
           mv city.svg ../city.svg
