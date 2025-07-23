@@ -2,9 +2,8 @@ name: Generate GitHub City
 
 on:
   schedule:
-    # Se ejecuta cada 24 horas a la medianoche UTC
     - cron: '0 0 * * *'
-  workflow_dispatch: # Permite ejecutarlo manualmente desde la pestaña Actions
+  workflow_dispatch:
 
 jobs:
   build:
@@ -18,12 +17,16 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '18' # Usamos una versión estable de Node.js
+          node-version: '18'
 
       - name: Generate GitHub City from source
+        # Se ha añadido GITHUB_TOKEN a la variable de entorno de este paso
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           echo "Clonando el repositorio de la herramienta GitHub-City..."
-          git clone https://github.com/honzaap/GitHub-City.git
+          # Se ha modificado esta línea para incluir las credenciales en la URL
+          git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/honzaap/GitHub-City.git
 
           echo "Navegando al directorio de la herramienta..."
           cd GitHub-City
@@ -32,11 +35,9 @@ jobs:
           npm install
 
           echo "Ejecutando el script para generar la ciudad..."
-          # Usamos el script original con tu usuario y token
-          node city.js -u ${{ github.repository_owner }} -t ${{ secrets.GH_TOKEN }} -o city.svg
+          node city.js -u ${{ github.repository_owner }} -t ${{ secrets.GITHUB_TOKEN }} -o city.svg
 
           echo "Moviendo el archivo generado al directorio principal..."
-          # Movemos la imagen generada para que el siguiente paso la encuentre
           mv city.svg ../city.svg
 
       - name: Commit and Push new city
