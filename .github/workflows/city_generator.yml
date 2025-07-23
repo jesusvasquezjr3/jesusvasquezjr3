@@ -30,9 +30,13 @@ jobs:
           echo "Instalando las dependencias de la herramienta..."
           npm install
 
+          # --- PASO DE DEPURACIÓN ---
+          # Mostraremos una lista de todos los archivos para ver qué hay adentro
+          echo "--- INICIO DE LA LISTA DE ARCHIVOS (DEBUG) ---"
+          ls -R
+          echo "--- FIN DE LA LISTA DE ARCHIVOS (DEBUG) ---"
+
           echo "Ejecutando el script para generar la ciudad..."
-          # --- ÚNICO CAMBIO AQUÍ ---
-          # El archivo a ejecutar es src/index.js, no city.js
           node src/index.js -u ${{ github.repository_owner }} -t ${{ secrets.GH_TOKEN }} -o city.svg
 
           echo "Moviendo el archivo generado al directorio principal..."
