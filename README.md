@@ -26,4 +26,4 @@ I am a student of **Biomedical Engineering** at **Tecnológico de Monterrey**, a
 
 | 📌 Most Used Languages | 📈 Contribution Activity |
 |------------------------|--------------------------|
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusvasquezjr3&layout=pie&theme=nightowl&border_color=1DA1F2&text_color=58A6FF&title_color=1DA1F2&bg_color=0D1117&hide_border=false&cache_seconds=300&include_all_commits=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) | ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=jesusvasquezjr3&theme=nightowl&hide_border=false) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusvasquezjr3&layout=pie&theme=nightowl&border_color=1DA1F2&text_color=58A6FF&title_color=1DA1F2&bg_color=0D1117&hide_border=false&cache_seconds=300&include_all_commits=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) | ![GitHub Streak](https://streak-stats.demolab.com/?user=jesusvasquezjr3&theme=nightowl&hide_border=false) |
