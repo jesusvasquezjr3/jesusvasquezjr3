@@ -27,7 +27,7 @@ jobs:
           echo "Clonando el repositorio de la herramienta GitHub-City..."
           # --- LA CORRECCIÓN ESTÁ AQUÍ ---
           # Se eliminó la barra diagonal ("/") al final de la URL
-          git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/honzaap/GitHub-City.git
+          git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/honzaap/GitHub-City.git/
 
           echo "Navegando al directorio de la herramienta..."
           cd GitHub-City
