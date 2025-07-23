@@ -1,7 +1,3 @@
-# ===============================================
-# ||   ESTE ES EL CÓDIGO CORRECTO Y DEFINITIVO   ||
-# ===============================================
-
 name: Generate GitHub City
 
 on:
@@ -19,13 +15,14 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
+      # Usamos la nueva acción, que sí existe y está mantenida
       - name: Generate GitHub City
-        # La línea clave es esta. Usa una acción pre-hecha, no npx.
-        uses: 9sako6/github-city-action@v1
+        uses: IchaDev/jscity-action@v1
         with:
-          username: ${{ github.repository_owner }}
+          # El token que creaste
           token: ${{ secrets.GH_TOKEN }}
-          output: city.svg
+          # La ruta donde se guardará el archivo SVG
+          output_path: city.svg
 
       - name: Commit and Push new city
         run: |
