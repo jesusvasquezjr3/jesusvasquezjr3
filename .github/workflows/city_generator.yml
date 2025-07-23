@@ -20,21 +20,22 @@ jobs:
           node-version: '18'
 
       - name: Generate GitHub City from source
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        # NOTA: Ya no necesitamos pasar el GITHUB_TOKEN como "env" en este paso
         run: |
-          echo "Clonando el repositorio de la herramienta GitHub-City..."
-          # CORRECCIÓN: Se eliminó la barra diagonal al final de .git
-          git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/honzaap/GitHub-City.git
+          echo "Clonando el repositorio PÚBLICO de la herramienta (sin token)..."
+          # --- CAMBIO CLAVE ---
+          # Clonamos el repositorio directamente, sin autenticación. Es público.
+          git clone https://github.com/honzaap/GithubCity.git
 
           echo "Navegando al directorio de la herramienta..."
-          cd GitHub-City
+          cd GithubCity # El nombre del directorio es GithubCity con 'C' mayúscula
 
           echo "Instalando las dependencias de la herramienta..."
           npm install
 
           echo "Ejecutando el script para generar la ciudad..."
-          node city.js -u ${{ github.repository_owner }} -t ${{ secrets.GITHUB_TOKEN }} -o city.svg
+          # Aquí sí usamos el token, para que el script pueda leer TUS repositorios
+          node city.js -u ${{ github.repository_owner }} -t ${{ secrets.GH_TOKEN }} -o city.svg
 
           echo "Moviendo el archivo generado al directorio principal..."
           mv city.svg ../city.svg
