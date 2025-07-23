@@ -1,3 +1,7 @@
+# ===============================================
+# ||   ESTE ES EL CÓDIGO CORRECTO Y DEFINITIVO   ||
+# ===============================================
+
 name: Generate GitHub City
 
 on:
@@ -16,13 +20,11 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate GitHub City
+        # La línea clave es esta. Usa una acción pre-hecha, no npx.
         uses: 9sako6/github-city-action@v1
         with:
-          # Usamos una variable de GitHub para obtener tu nombre de usuario automáticamente
           username: ${{ github.repository_owner }}
-          # El token que creaste y guardaste como un secreto
           token: ${{ secrets.GH_TOKEN }}
-          # Nombre del archivo de salida
           output: city.svg
 
       - name: Commit and Push new city
