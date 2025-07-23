@@ -25,9 +25,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           echo "Clonando el repositorio CORRECTO de la herramienta (GitHub-City)..."
-          # Usamos el token para autenticar el clone y la URL correcta sin la "/" al final
           git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/honzaap/GitHub-City.git
-
           echo "Navegando al directorio de la herramienta..."
           cd GitHub-City
 
