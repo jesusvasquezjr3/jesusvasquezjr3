@@ -47,6 +47,8 @@ I am a student of **Biomedical Engineering** at **Tecnológico de Monterrey**, a
 **📊 Productividad**  
 ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) |
 
+---
+
 | ![GitHub Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg) |
 | --- |
 
