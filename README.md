@@ -9,7 +9,7 @@
 
 ## 🎓 About Me
 
-I am a student of **Biomedical Engineering** at **Tecnológico de Monterrey**, and also studying **Artificial Intelligence Engineering** at **Hybridge Education**.
+I am a **Biomedical Engineer** from **Tecnológico de Monterrey**, and also **Artificial Intelligence Engineer** from **Hybridge Education**.
 
 - 💬 I am interested in the applications of technologies such as artificial intelligence in various fields.
 - ⚡ I have experience developing software and hardware projects in different engineering areas.
