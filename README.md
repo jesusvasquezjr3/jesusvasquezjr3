@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://javier.rodriguez.org.mx/itesm/2014/tecnologico-de-monterrey-blue.png" alt="Tecnológico de Monterrey" width="220"/>
+<img src="https://javier.rodriguez.org.mx/itesm/2014/tecnologico-de-monterrey-blue.png" alt="Tecnológico de Monterrey" width="200"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://hybridge.education/Logo_blanco.png" alt="Hybridge Education" width="200"/>
 
 # Jesús Vásquez
 
@@ -96,7 +98,8 @@ Combino ingeniería biomédica con inteligencia artificial: imagenología médic
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusvasquezjr3&layout=donut-vertical&theme=nightowl&langs_count=6" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/?username=jesusvasquezjr3&show_icons=true&theme=nightowl&count_private=true" alt="GitHub stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusvasquezjr3&layout=donut-vertical&theme=nightowl&langs_count=6" alt="Top languages" height="165"/>
 
 </div>
 
