@@ -96,13 +96,19 @@ Combino ingeniería biomédica con inteligencia artificial: imagenología médic
 
 ### Stats
 
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jesusvasquezjr3&theme=nightowl" alt="GitHub profile stats" width="100%"/>
+</td>
+<td width="50%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jesusvasquezjr3&theme=nightowl" alt="Repos por lenguaje" width="100%"/>
+</td>
+</tr>
+</table>
+
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jesusvasquezjr3&theme=nightowl" alt="GitHub profile stats" width="450"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jesusvasquezjr3&theme=nightowl" alt="Repos por lenguaje" width="450"/>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
-
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="100%"/>
 </div>
 
 ---
