@@ -115,10 +115,16 @@ Combino ingeniería biomédica con inteligencia artificial: imagenología médic
 
 ### Mi Trayectoria
 
+<div align="center">
+
 | Institución | Repositorio |
 | :--- | :--- |
 | <img src="https://javier.rodriguez.org.mx/itesm/2014/tecnologico-de-monterrey-blue.png" alt="Tecnológico de Monterrey" width="200"/> | https://github.com/jesusvasquezjr3-tec-de-mty |
 | <img src="https://hybridge.education/Logo_blanco.png" alt="Hybridge Education" width="200"/> | https://gitlab.com/jesusvasquezjr3-hybridge |
+
+</div>
+
+---
 
 <div align="center">
 
