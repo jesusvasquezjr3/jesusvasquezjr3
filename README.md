@@ -117,11 +117,11 @@ Combino ingeniería biomédica con inteligencia artificial: imagenología médic
 
 | Institución | Repositorio |
 | :--- | :--- |
-| [![Hybridge Education](https://img.shields.io/badge/Hybridge%20Education-FFD700?style=for-the-badge&logoColor=black)](https://www.hybridge.education) | https://gitlab.com/jesusvasquezjr3-hybridge |
-| [![Tec de Monterrey](https://img.shields.io/badge/Tec%20de%20Monterrey-0066B3?style=for-the-badge&logoColor=white)](https://tec.mx/es) | https://github.com/jesusvasquezjr3-tec-de-mty |
+| <img src="https://javier.rodriguez.org.mx/itesm/2014/tecnologico-de-monterrey-blue.png" alt="Tecnológico de Monterrey" width="200"/> | https://github.com/jesusvasquezjr3-tec-de-mty |
+| <img src="https://hybridge.education/Logo_blanco.png" alt="Hybridge Education" width="200"/> | https://gitlab.com/jesusvasquezjr3-hybridge |
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/jesusvasquezjr3/)
+¡Contáctame👋! [LinkedIn](https://www.linkedin.com/in/jesusvasquezjr3/)
 
 </div>
