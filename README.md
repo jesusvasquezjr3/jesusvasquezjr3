@@ -94,26 +94,11 @@ Combino ingeniería biomédica con inteligencia artificial: imagenología médic
 
 ---
 
-### Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/?username=jesusvasquezjr3&show_icons=true&theme=nightowl&count_private=true" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusvasquezjr3&layout=donut-vertical&theme=nightowl&langs_count=6" alt="Top languages" height="165"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
 
 </div>
-
----
-
-### Proyectos
-
-| Proyecto | Descripción |
-|---|---|
-| [**StellarBrace**](https://github.com/jesusvasquezjr3/StellarBrace) | Órtesis robótica para el movimiento del codo mediante señales EMG |
-| [**wavii-wearable**](https://github.com/jesusvasquezjr3/wavii-wearable) | Dispositivo wearable para monitoreo de bienestar corporal |
-| [**KairosAttend**](https://github.com/jesusvasquezjr3/KairosAttend) | Registro de asistencia automático por reconocimiento facial |
-| [**brazo-robotico-bioinstru**](https://github.com/jesusvasquezjr3/brazo-robotico-bioinstru) | Brazo robótico — proyecto integrador de Bioinstrumentación |
-| [**LeafLink**](https://github.com/jesusvasquezjr3/LeafLink) | Aplicación web |
 
 ---
 
