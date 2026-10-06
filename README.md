@@ -124,6 +124,14 @@ Combino ingeniería biomédica con inteligencia artificial: imagenología médic
 
 </div>
 
+<div align="center">
+
+| Empresa | Repositorio |
+| :--- | :--- |
+| <img src="https://littlefounders.ai/rebuild/brand/logo.png" alt="littlefounders.ai" width="200"/> | https://github.com/jesusvasquezjr3-littlefounders |
+
+</div>
+
 ---
 
 <div align="center">
