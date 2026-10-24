@@ -4,7 +4,8 @@
 &nbsp;&nbsp;&nbsp;
 <img src="https://borregostec.wordpress.com/wp-content/uploads/2013/11/tecno.jpg" alt="Tecnológico de Monterrey" height="75" style="width: auto; vertical-align: middle;"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://hybridge.education/fav_icon.png" alt="Hybridge Education" height="75" style="width: auto; vertical-align: middle;"/><br>
+<img src="https://hybridge.education/fav_icon.png" alt="Hybridge Education" height="75" style="width: auto; vertical-align: middle;"/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesusvasquezjr3/)
 [![Universitat de Barcelona](https://img.shields.io/badge/Universitat%20de%20Barcelona-A10035?style=for-the-badge&logoColor=white)](https://www.ub.edu/)
 [![Tec de Monterrey](https://img.shields.io/badge/Tec%20de%20Monterrey-0066B3?style=for-the-badge&logoColor=white)](https://tec.mx/es)
