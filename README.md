@@ -13,8 +13,8 @@
 [![Tec de Monterrey](https://img.shields.io/badge/Tec%20de%20Monterrey-0066B3?style=for-the-badge&logoColor=white)](https://tec.mx/es)
 [![Hybridge Education](https://img.shields.io/badge/Hybridge%20Education-FFD700?style=for-the-badge&logoColor=black)](https://www.hybridge.education)
 
-**Máster** · Data Science & Inteligencia Artificial<br>
-**Biomedical Engineer** &nbsp;|&nbsp; **Artificial Intelligence Engineer**
+**Master’s Degree** in Data Science & Artificial Intelligence<br>
+Biomedical **Engineer** &nbsp;|&nbsp; Artificial **Intelligence Engineer**
 
 </div>
 
