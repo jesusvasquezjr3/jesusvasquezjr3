@@ -1,5 +1,6 @@
 <div align="center">
 
+<img src="https://web.ub.edu/image/company_logo?img_id=62529735&t=1792678814424" alt="Universitat de Barcelona" width="200"/>
 <img src="https://javier.rodriguez.org.mx/itesm/2014/tecnologico-de-monterrey-blue.png" alt="Tecnológico de Monterrey" width="200"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://hybridge.education/Logo_blanco.png" alt="Hybridge Education" width="200"/>
@@ -8,7 +9,8 @@
 
 **Ingeniero Biomédico** · Tecnológico de Monterrey &nbsp;|&nbsp; **Ingeniero en Inteligencia Artificial** · Hybridge Education
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesusvasquezjr3/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesusvasquezjr3/)<br>
+[![Universitat de Barcelona](https://img.shields.io/badge/Universitat%20de%20Barcelona-A10035?style=for-the-badge&logoColor=white)](https://www.ub.edu/)
 [![Tec de Monterrey](https://img.shields.io/badge/Tec%20de%20Monterrey-0066B3?style=for-the-badge&logoColor=white)](https://tec.mx/es)
 [![Hybridge Education](https://img.shields.io/badge/Hybridge%20Education-FFD700?style=for-the-badge&logoColor=black)](https://www.hybridge.education)
 
