@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://web.ub.edu/documents/2685349/2686580/marca_peu_150.png.jpg" alt="Universitat de Barcelona" width="200"/>
+<img src="https://web.ub.edu/documents/2685349/2686580/marca_peu_150.png.jpg/d1edc411-ab53-7e7d-88a5-866227bab7f2?t=1669825612958" alt="Universitat de Barcelona" width="200"/>
 <img src="https://javier.rodriguez.org.mx/itesm/2014/tecnologico-de-monterrey-blue.png" alt="Tecnológico de Monterrey" width="200"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://hybridge.education/Logo_blanco.png" alt="Hybridge Education" width="200"/>
