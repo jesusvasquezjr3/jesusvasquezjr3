@@ -2,9 +2,9 @@
 
 <img src="https://www.radonorm.eu/wp-content/uploads/2020/10/UB-LOGO.webp" alt="Universitat de Barcelona" width="200"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://javier.rodriguez.org.mx/itesm/2014/tecnologico-de-monterrey-blue.png" alt="Tecnológico de Monterrey" width="200"/>
+<img src="https://borregostec.wordpress.com/wp-content/uploads/2013/11/tecno.jpg" alt="Tecnológico de Monterrey" width="200"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://hybridge.education/Logo_blanco.png" alt="Hybridge Education" width="200"/>
+<img src="https://hybridge.education/fav_icon.png" alt="Hybridge Education" width="200"/>
 
 # Jesús Vásquez
 
