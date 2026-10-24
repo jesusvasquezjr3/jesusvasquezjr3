@@ -1,16 +1,10 @@
 <div align="center">
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 24px;">
-  <div style="width: 200px; height: 100px; display: flex; align-items: center; justify-content: center;">
-    <img src="https://www.radonorm.eu/wp-content/uploads/2020/10/UB-LOGO.webp" alt="Universitat de Barcelona" style="max-width: 100%; max-height: 100%; object-fit: contain;"/>
-  </div>
-  <div style="width: 200px; height: 100px; display: flex; align-items: center; justify-content: center;">
-    <img src="https://borregostec.wordpress.com/wp-content/uploads/2013/11/tecno.jpg" alt="Tecnológico de Monterrey" style="max-width: 100%; max-height: 100%; object-fit: contain;"/>
-  </div>
-  <div style="width: 200px; height: 100px; display: flex; align-items: center; justify-content: center;">
-    <img src="https://hybridge.education/fav_icon.png" alt="Hybridge Education" style="max-width: 100%; max-height: 100%; object-fit: contain;"/>
-  </div>
-</div>
+<img src="https://www.radonorm.eu/wp-content/uploads/2020/10/UB-LOGO.webp" alt="Universitat de Barcelona" width="200" height="100" style="object-fit: contain; vertical-align: middle;"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://borregostec.wordpress.com/wp-content/uploads/2013/11/tecno.jpg" alt="Tecnológico de Monterrey" width="200" height="100" style="object-fit: contain; vertical-align: middle;"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://hybridge.education/fav_icon.png" alt="Hybridge Education" width="200" height="100" style="object-fit: contain; vertical-align: middle;"/>
 
 # Jesús Vásquez
 
