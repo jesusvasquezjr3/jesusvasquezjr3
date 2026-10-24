@@ -14,7 +14,7 @@
 [![Hybridge Education](https://img.shields.io/badge/Hybridge%20Education-FFD700?style=for-the-badge&logoColor=black)](https://www.hybridge.education)
 
 **Máster** · Data Science & Inteligencia Artificial<br>
-**Ingeniero** · Biomédico &nbsp;|&nbsp; **Ingeniero** · en Inteligencia Artificial
+**Biomedical Engineer** &nbsp;|&nbsp; **Artificial Intelligence Engineer**
 
 </div>
 
