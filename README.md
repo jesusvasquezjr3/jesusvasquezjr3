@@ -8,7 +8,7 @@
 
 # Jesús Vásquez
 
-**Máster** · Data Science & Inteligencia Artificial
+**Máster** · Data Science & Inteligencia Artificial<br>
 **Ingeniero Biomédico** · Tecnológico de Monterrey &nbsp;|&nbsp; **Ingeniero en Inteligencia Artificial** · Hybridge Education
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesusvasquezjr3/)<br>
