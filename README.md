@@ -6,12 +6,12 @@
 &nbsp;&nbsp;&nbsp;
 <img src="https://hybridge.education/fav_icon.png" alt="Hybridge Education" height="75" style="width: auto; vertical-align: middle;"/>
 
+# Jesús Vásquez
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesusvasquezjr3/)<br>
 [![Universitat de Barcelona](https://img.shields.io/badge/Universitat%20de%20Barcelona-A10035?style=for-the-badge&logoColor=white)](https://www.ub.edu/)
 [![Tec de Monterrey](https://img.shields.io/badge/Tec%20de%20Monterrey-0066B3?style=for-the-badge&logoColor=white)](https://tec.mx/es)
 [![Hybridge Education](https://img.shields.io/badge/Hybridge%20Education-FFD700?style=for-the-badge&logoColor=black)](https://www.hybridge.education)
-
-# Jesús Vásquez
 
 **Máster** · Data Science & Inteligencia Artificial<br>
 **Ingeniero** · Biomédico &nbsp;|&nbsp; **Ingeniero** · en Inteligencia Artificial
