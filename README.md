@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://www.radonorm.eu/wp-content/uploads/2020/10/UB-LOGO.webp" alt="Universitat de Barcelona" height="100" style="width: auto; vertical-align: middle;"/>
+<img src="https://www.radonorm.eu/wp-content/uploads/2020/10/UB-LOGO.webp" alt="Universitat de Barcelona" height="75" style="width: auto; vertical-align: middle;"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://borregostec.wordpress.com/wp-content/uploads/2013/11/tecno.jpg" alt="Tecnológico de Monterrey" height="100" style="width: auto; vertical-align: middle;"/>
+<img src="https://borregostec.wordpress.com/wp-content/uploads/2013/11/tecno.jpg" alt="Tecnológico de Monterrey" height="75" style="width: auto; vertical-align: middle;"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://hybridge.education/fav_icon.png" alt="Hybridge Education" height="100" style="width: auto; vertical-align: middle;"/>
+<img src="https://hybridge.education/fav_icon.png" alt="Hybridge Education" height="75" style="width: auto; vertical-align: middle;"/>
 
 # Jesús Vásquez
 
