@@ -6,23 +6,80 @@
 &nbsp;&nbsp;&nbsp;
 <img src="https://hybridge.education/fav_icon.png" alt="Hybridge Education" height="75" style="width: auto; vertical-align: middle;"/>
 
-# Jesús Vásquez
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesusvasquezjr3/)<br>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.gif">
+  <img src="./assets/hero-dark.gif" alt="Jesús Vásquez — Biomedical Engineer and Artificial Intelligence Engineer" width="100%">
+</picture>
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesusvasquezjr3/)
 [![Universitat de Barcelona](https://img.shields.io/badge/Universitat%20de%20Barcelona-A10035?style=for-the-badge&logoColor=white)](https://www.ub.edu/)
 [![Tec de Monterrey](https://img.shields.io/badge/Tec%20de%20Monterrey-0066B3?style=for-the-badge&logoColor=white)](https://tec.mx/es)
 [![Hybridge Education](https://img.shields.io/badge/Hybridge%20Education-FFD700?style=for-the-badge&logoColor=black)](https://www.hybridge.education)
-
-**Master’s Degree** in Data Science & Artificial Intelligence<br>
-Biomedical **Engineer** &nbsp;|&nbsp; Artificial **Intelligence Engineer**
 
 </div>
 
 ---
 
-### Tech Stack
+## Selected Stack
 
-<table>
+<div align="center">
+<table width="100%">
+<tr>
+<td width="20%" align="center" valign="middle"><b>AI / DATA</b></td>
+<td width="80%" valign="middle">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
+<img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black" alt="YOLO">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle"><b>SOFTWARE</b></td>
+<td valign="middle">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle"><b>CLOUD / DB</b></td>
+<td valign="middle">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS">
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure">
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle"><b>PHYSICAL</b></td>
+<td valign="middle">
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32">
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
+<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB">
+<img src="https://img.shields.io/badge/SolidWorks-E2211C?style=flat-square&logo=solidworks&logoColor=white" alt="SolidWorks">
+<img src="https://img.shields.io/badge/Fusion_360-0696D7?style=flat-square&logo=autodesk&logoColor=white" alt="Fusion 360">
+</td>
+</tr>
+</table>
+</div>
+
+<details>
+<summary><b>🛠️ Click to expand Full Technical Stack</b></summary>
+<br>
+
+<table width="100%">
 <tr>
 <td valign="top" width="50%">
 
@@ -140,28 +197,24 @@ Biomedical **Engineer** &nbsp;|&nbsp; Artificial **Intelligence Engineer**
 </tr>
 </table>
 
+</details>
+
 ---
 
-### Stats
+## GitHub Telemetry
 
+<div align="center">
 <table width="100%">
 <tr>
-<td width="70%" align="center">
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jesusvasquezjr3&theme=nightowl"
-  alt="GitHub profile stats"
-  height="150"
-/>
+<td width="65%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jesusvasquezjr3&theme=github_dark" alt="GitHub profile details" width="100%">
 </td>
-<td width="30%" align="center">
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jesusvasquezjr3&theme=nightowl"
-  alt="Repos por lenguaje"
-  height="150"
-/>
+<td width="35%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jesusvasquezjr3&theme=github_dark" alt="Repositories per language" width="100%">
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
@@ -238,3 +291,5 @@ Biomedical **Engineer** &nbsp;|&nbsp; Artificial **Intelligence Engineer**
     </td>
   </tr>
 </table>
+
+
