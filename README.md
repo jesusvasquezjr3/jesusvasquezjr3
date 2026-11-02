@@ -144,39 +144,96 @@ Biomedical **Engineer** &nbsp;|&nbsp; Artificial **Intelligence Engineer**
 
 ### Stats
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jesusvasquezjr3&theme=nightowl" alt="GitHub profile stats" width="100%"/>
+<td width="70%" align="center">
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jesusvasquezjr3&theme=nightowl"
+  alt="GitHub profile stats"
+  height="150"
+/>
 </td>
-<td width="50%" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jesusvasquezjr3&theme=nightowl" alt="Repos por lenguaje" width="100%"/>
+<td width="30%" align="center">
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jesusvasquezjr3&theme=nightowl"
+  alt="Repos por lenguaje"
+  height="150"
+/>
 </td>
 </tr>
 </table>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="100%"/>
-</div>
 
 ---
 
 ### My Experience
 
-<div align="center">
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%" align="center">Institution</th>
+      <th width="50%" align="center">Repository</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://javier.rodriguez.org.mx/itesm/2014/tecnologico-de-monterrey-blue.png"
+             alt="Tecnológico de Monterrey"
+             height="70"/>
+      </td>
+      <td align="center">
+        <a href="https://github.com/jesusvasquezjr3-tec-de-mty">
+          GitHub Repository
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://hybridge.education/Logo_blanco.png"
+             alt="Hybridge Education"
+             height="70"/>
+      </td>
+      <td align="center">
+        <a href="https://gitlab.com/jesusvasquezjr3-hybridge">
+          GitLab Repository
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://www.radonorm.eu/wp-content/uploads/2020/10/UB-LOGO.webp"
+             alt="Universitat de Barcelona"
+             height="70"/>
+      </td>
+      <td align="center">
+        <a href="https://github.com/jesusvasquezjr3-ub">
+          GitHub Repository
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-| Institution | Repository |
-| :--- | :--- |
-| <img src="https://javier.rodriguez.org.mx/itesm/2014/tecnologico-de-monterrey-blue.png" alt="Tecnológico de Monterrey" width="200"/> | https://github.com/jesusvasquezjr3-tec-de-mty |
-| <img src="https://hybridge.education/Logo_blanco.png" alt="Hybridge Education" width="200"/> | https://gitlab.com/jesusvasquezjr3-hybridge |
-
-</div>
-
-<div align="center">
-
-| Company | Repository |
-| :--- | :--- |
-| <img src="https://littlefounders.ai/brand/logo.png" alt="littlefounders.ai" width="200"/> | https://github.com/jesusvasquezjr3-littlefounders |
-
-</div>
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%" align="center">Company</th>
+      <th width="50%" align="center">Repository</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://littlefounders.ai/brand/logo.png"
+             alt="LittleFounders"
+             height="70"/>
+      </td>
+      <td align="center">
+        <a href="https://github.com/jesusvasquezjr3-littlefounders">
+          GitHub Repository
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
